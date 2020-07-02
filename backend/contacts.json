@@ -1,0 +1,26 @@
+[
+    {
+        "complete_name": "Joe",
+        "phone": "656-9999-9999",
+        "facebook": "http://facebook.com/joe",
+        "email": "joe@gmail.com"
+    },
+    {
+        "complete_name": "Bill",
+        "phone": "656-9999-9999",
+        "facebook": "http://facebook.com/bill",
+        "email": "bill@gmail.com"
+    },
+    {
+        "complete_name": "Cloe",
+        "phone": "656-9999-9999",
+        "facebook": "http://facebook.com/cloe",
+        "email": "cloe@gmail.com"
+    },
+    {
+        "complete_name": "Madson",
+        "phone": "656-9999-9999",
+        "facebook": "http://facebook.com/madson",
+        "email": "madson@gmail.com"
+    }
+]
